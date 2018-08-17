@@ -1,0 +1,9 @@
+Building PeaceCoin
+
+See doc/readme-qt.rst for instructions on building PeaceCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PeaceCoin.
+
+See doc/build-*.txt for instructions on building PeaceCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PeaceCoin.
